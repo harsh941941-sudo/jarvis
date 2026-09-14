@@ -29,7 +29,7 @@ from config import (
 )
 
 try:
-    from google.antigravity import Agent, LocalAgentConfig
+    from google.antigravity import Agent as AntigravityAgent, LocalAgentConfig as AgentConfig
 except Exception:
     Agent = None
     LocalAgentConfig = None
