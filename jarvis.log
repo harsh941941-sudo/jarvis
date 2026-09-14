@@ -23,3 +23,15 @@ Is adb running on your computer?
 [22:41:08] INFO Microphone unavailable: Could not find PyAudio; check installation
 [22:41:08] INFO JARVIS initialized without voice input support.
 [22:41:09] INFO Voice input is unavailable; the web dashboard will remain running.
+[22:53:29] INFO google.antigravity is unavailable. Agent features are disabled.
+[22:53:31] INFO ADB initialization failed: ERROR: connecting to 127.0.0.1:5037 [WinError 10061] No connection could be made because the target machine actively refused it.
+Is adb running on your computer?
+[22:53:31] INFO Microphone unavailable: Could not find PyAudio; check installation
+[22:53:31] INFO JARVIS initialized without voice input support.
+[22:53:32] INFO Voice input is unavailable; the web dashboard will remain running.
+[23:10:18] INFO google.antigravity is unavailable. Agent features are disabled.
+[23:10:20] INFO ADB initialization failed: ERROR: connecting to 127.0.0.1:5037 [WinError 10061] No connection could be made because the target machine actively refused it.
+Is adb running on your computer?
+[23:10:20] INFO Microphone unavailable: Could not find PyAudio; check installation
+[23:10:20] INFO JARVIS initialized without voice input support.
+[23:10:21] INFO Voice input is unavailable; the web dashboard will remain running.

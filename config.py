@@ -16,7 +16,7 @@ APP_PORT = int(os.getenv("JARVIS_APP_PORT", "5000"))
 ADB_HOST = os.getenv("JARVIS_ADB_HOST", "127.0.0.1")
 ADB_PORT = int(os.getenv("JARVIS_ADB_PORT", "5037"))
 MODEL_NAME = os.getenv("JARVIS_MODEL_NAME", "gemini-2.5-flash")
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
+GOOGLE_API_KEY = os.getenv("AIzaSyDNEnCoB0PeJu2dssQsiuN9TzNU3Au7YUE", "")
 THREAD_WORKERS = int(os.getenv("JARVIS_THREAD_WORKERS", "6"))
 THREAD_POOL = ThreadPoolExecutor(max_workers=THREAD_WORKERS)
 

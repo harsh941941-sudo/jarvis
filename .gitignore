@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+jarvis.log
+screenshot.png
+generated_script.py

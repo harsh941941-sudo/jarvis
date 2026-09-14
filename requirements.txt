@@ -1,0 +1,9 @@
+Flask>=3.0.0
+SpeechRecognition>=3.10.0
+pyautogui>=0.9.54
+pure-python-adb>=0.0.0
+pyttsx3>=2.90
+
+# Optional: install the Google Antigravity package only if you are using the
+# Google Antigravity IDE/Agent integration. The application handles its absence
+# gracefully by disabling the agent features.
